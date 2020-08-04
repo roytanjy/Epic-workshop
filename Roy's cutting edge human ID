@@ -1,0 +1,13 @@
+var first = prompt ("if the 2nd last letter of your FULL name is \"i\", press 1. If not, press 0");
+var second = prompt("if your FULL name contains the alphabet \"a\", press 2. If not, press 0");
+var sum = Number(first) + Number(second);
+if (sum = 1) {
+    alert("You are Min!");
+} else if (sum = 2) {
+    alert("You are TX!");
+} else if (sum = 3) {
+    alert("You are Haojin!");
+} else if (sum = 0) {
+    alert("You are TY!");
+} else {
+    alert("WTH ARE YOU?!")
